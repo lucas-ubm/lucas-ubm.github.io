@@ -23,6 +23,5 @@ social: true # includes social icons at the bottom of the page
 > - [Not Yogi Berra](https://www.snopes.com/fact-check/practice-and-theory/)
 
 My research interests are in enabling the use of computational approaches (including but not limited to AI) to solve real-life problems.
-My PhD research will aim to find solutions to challenges faced in the enforcement of and compliance with the EU's General Data Protection Regulation (GDPR) and AI act.
-
-I am a PhD candidate at Maastricht University's [Law and tech lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab), working on the [Regtech4AI](https://regtech4ai.maastrichtlawtech.eu/) project under the supervision of [Konrad Kollnig](https://kollnig.net/).
+In my PhD research I will explore the potential of computational techniques to mitigate the legal risks arising from the deployment of AI, focusing on applications in the fields of education and healthcare.
+I am a PhD candidate at Maastricht University's [Law and tech lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab), working on the [Regtech4AI](https://regtech4ai.maastrichtlawtech.eu/) project under the supervision of [Konrad Kollnig](https://kollnig.net/), [Gijs van Dijck](https://www.maastrichtuniversity.nl/g-van-dijck) and [Jerry Spanakis](https://www.maastrichtuniversity.nl/g-spanakis).

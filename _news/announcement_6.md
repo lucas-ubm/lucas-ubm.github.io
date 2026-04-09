@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-28
+date: 2026-01
 inline: true
 related_posts: false
 ---
 
-Delivered a [training on AI to Spanish Consumer Authorities](<https://www.dsca.gob.es/sites/default/files/consumo_masinfo/Programa_13(04)-DGC-SGC-2025.pdf>) with my supervisor Jerry Spanakis.
+I did a part-time secondment at the Responsible AI team of Auditdienst Rijk (the Dutch government’s independent internal audit organisation), where I worked as part of an audit team assessing an algorithm against emerging legal standards and AI governance norms. This audit was part of the team’s broader efforts to further develop and refine AI auditing practices.
